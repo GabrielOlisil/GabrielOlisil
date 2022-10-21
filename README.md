@@ -6,9 +6,7 @@ Programador Junior, em Busca de adiquirir conhecimento!!
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-</br>
-
-##```javascript
+```javascript
 dev = {
  name: "SEU NOME COMPLETO",
  languages: ["JavaScript", "TypeScript", "Node.js", "React.js", "HTML", "CSS"]
