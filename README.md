@@ -36,7 +36,7 @@ dev = {
 </a>
 
 [instagram]: https://www.instagram.com/gabriel_olisil/
-[linkedin]: https://www.linkedin.com/in/gabriel-de-oliveira-silva/
+[linkedin]: https://www.linkedin.com/in/gabriel-de-oliveira-silva-1b163b249/
 <br>
 
 #### Rede Sociais!
