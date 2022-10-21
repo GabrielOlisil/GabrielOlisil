@@ -27,25 +27,19 @@ dev = {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/GabrielOlisil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOlisil&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/GabrielOlisil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielOlisil&show_icons=true&theme=dracula&line_height=27" alt="**Gabriel de Oliveira** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[instagram]: https://www.instagram.com/gabriel_olisil/
+[linkedin]: https://www.linkedin.com/in/gabriel-de-oliveira-silva/
 <br>
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
