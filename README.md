@@ -8,7 +8,7 @@ Programador Junior, em Busca de adiquirir conhecimento!!
 
 ```javascript
  dev = {
- name: "SEU NOME COMPLETO"
+ name: "SEU NOME COMPLETO",
  
  languages: ["JavaScript", "TypeScript", "Node.js", "React.js", "HTML", "CSS"]
 
