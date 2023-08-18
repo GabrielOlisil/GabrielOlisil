@@ -9,7 +9,7 @@ Programador Junior, em Busca de adiquirir conhecimento!!
 ```js
 const dev = {
  name: "Gabriel de Oliveira Silva",
- languages: ["C#", ".NET"]
+ languages: ["C#", ".NET", "MySql"]
 }
 ```
 
