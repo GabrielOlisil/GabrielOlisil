@@ -12,8 +12,3 @@ const dev = {
  languages: ["C#", ".NET", "MySql"]
 }
 ```
-
-#### Rede Sociais!
-
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
