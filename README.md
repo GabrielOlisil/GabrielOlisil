@@ -1,5 +1,5 @@
 ## Prazer, Gabriel de Oliveira Silva! 
-> Programador estagiário .Net, em Busca de adiquirir conhecimento!!
+> Programador .Net, em Busca de adiquirir conhecimento!!
 
 
 <picture>
