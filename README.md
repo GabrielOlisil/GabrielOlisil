@@ -19,13 +19,6 @@ Técnico em Informática pelo Instituto Federal de Rondônia, atualmente cursand
 
 ### Conhecimentos
 - C#/.Net
-- C/C++
 - Mysql
-- Sql Server
-- Node
-- Asp.Net
+- Asp.Net/Blazor
 - Docker
-### Principais Projetos
-- [SQL Generator](https://github.com/GabrielOlisil/InsertGeneration)
-- [Asp Net CRUD](https://github.com/GabrielOlisil/AspNetRazorCrud)
-
